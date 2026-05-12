@@ -1,10 +1,23 @@
 ### hey, I'm Immanuel
 
-building tools for AI agents that actually know what time it is.
+I build tools for AI agents, live information systems, and independent products.
+
+FreshContext is my current infrastructure line: temporal intelligence for agents that need to know when information was published, retrieved, refreshed, and likely to decay.
 
 ---
 
-**[freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp)** — real-time web intelligence for Claude and other MCP clients. Every result timestamped. 11 tools: GitHub, HN, Reddit, arXiv, Product Hunt, Yahoo Finance, YC, and more. No API keys. Runs on Cloudflare edge.
+### FreshContext
+
+FreshContext is temporal intelligence infrastructure for AI systems.
+
+Live site:
+https://freshcontext-site.pages.dev/
+
+Core repo:
+https://github.com/PrinceGabriel-lgtm/freshcontext-mcp
+
+MCP endpoint:
+https://freshcontext-mcp.gimmanuel73.workers.dev/mcp
 
 ```json
 {
@@ -17,8 +30,34 @@ building tools for AI agents that actually know what time it is.
 }
 ```
 
-→ [install in 2 minutes](https://freshcontext-site.pages.dev)
+---
+
+### Featured Builds
+
+**Fresh HN Feed**  
+Freshness-ranked Hacker News intelligence for live technical signals.
+
+- API: https://fresh-hn-feed.gimmanuel73.workers.dev
+- Apify: https://apify.com/prince_gabriel/fresh-hn-feed
+
+**Fresh Jobs Feed**  
+Freshness-ranked jobs intelligence with AI/ML as the default category.
+
+- API: https://fresh-jobs-feed.gimmanuel73.workers.dev
+- Apify: https://apify.com/prince_gabriel/fresh-jobs-feed
+
+**FreshContext Ops Pulse**  
+Plain-English Cloudflare operations reports for Workers, D1, cron, and runtime analysis.
+
+- GitHub: https://github.com/PrinceGabriel-lgtm/freshcontext-ops-pulse
+
+### Catatonica
+
+Catatonica is an experimental app I built around focused interaction, creative systems, and independent product design.
+
+Live:
+https://catatonica.app
 
 ---
 
-`typescript` `cloudflare-workers` `mcp` `ai-agents` `open-source`
+`typescript` `cloudflare-workers` `mcp` `ai-agents` `open-source` `product-design`
