@@ -10,6 +10,9 @@ FreshContext is my current infrastructure line: temporal intelligence for agents
 
 FreshContext is temporal intelligence infrastructure for AI systems.
 
+Current MCP release:
+v0.3.17 · 21 tools live
+
 Live site:
 https://freshcontext-site.pages.dev/
 
