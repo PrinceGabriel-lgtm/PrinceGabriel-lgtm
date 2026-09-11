@@ -11,19 +11,19 @@ FreshContext is my current infrastructure line: temporal intelligence for agents
 FreshContext is temporal intelligence infrastructure for AI systems.
 
 Current MCP release:
-v0.3.17 · 21 tools live
+v0.5.1 · 22 tools live
 
 Live site:
-https://freshcontext-site.pages.dev/
+https://freshcontext.dev/
 
 Core repo:
 https://github.com/PrinceGabriel-lgtm/freshcontext-mcp
 
 MCP endpoint:
-https://freshcontext-mcp.gimmanuel73.workers.dev/mcp
+https://api.freshcontext.dev/mcp
 
 MCP demo:
-https://freshcontext-mcp.gimmanuel73.workers.dev/demo
+https://api.freshcontext.dev/demo
 
 MCP Registry:
 https://registry.modelcontextprotocol.io/
@@ -36,7 +36,7 @@ https://agenticmarket.dev/princegabriel73/server
   "mcpServers": {
     "freshcontext": {
       "command": "npx",
-      "args": ["-y", "mcp-remote", "https://freshcontext-mcp.gimmanuel73.workers.dev/mcp"]
+      "args": ["-y", "mcp-remote", "https://api.freshcontext.dev/mcp"]
     }
   }
 }
@@ -71,7 +71,7 @@ Plain-English Cloudflare operations reports for Workers, D1, cron, and runtime a
 - Agentic Market Server: https://agenticmarket.dev/princegabriel73/server
 - DEV.to: https://dev.to/immanuel_gabriel_341393bf
 - LinkedIn: https://www.linkedin.com/in/immanuel-gabriel-99375a292/
-- Email: mailto:gimmanuel73@gmail.com
+- Email: mailto:immanuel@freshcontext.dev
 - Secondary email: mailto:muyetuligabriel@gmail.com
 
 ### Catatonica
