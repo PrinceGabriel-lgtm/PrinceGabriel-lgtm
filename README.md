@@ -2,34 +2,16 @@
 
 I build tools for AI agents, live information systems, and independent products.
 
-FreshContext is my current infrastructure line: temporal intelligence for agents that need to know when information was published, retrieved, refreshed, and likely to decay.
-
----
-
 ### FreshContext
 
-FreshContext is temporal intelligence infrastructure for AI systems.
+FreshContext is context-integrity infrastructure for AI agents and RAG workflows. It evaluates caller-provided context before reasoning, preserving source, time, confidence, warnings and a readable decision. The public MCP package and Core import boundary are inspectable; broader SDK and REST evaluate surfaces are in development.
 
-Current MCP release:
-v0.5.1 · 22 tools live
+Website: https://freshcontext.dev/  
+Source and current release: https://github.com/PrinceGabriel-lgtm/freshcontext-mcp  
+Integration enquiries: https://freshcontext.dev/integration
 
-Live site:
-https://freshcontext.dev/
-
-Core repo:
-https://github.com/PrinceGabriel-lgtm/freshcontext-mcp
-
-MCP endpoint:
-https://api.freshcontext.dev/mcp
-
-MCP demo:
-https://api.freshcontext.dev/demo
-
-MCP Registry:
-https://registry.modelcontextprotocol.io/
-
-Agentic Market:
-https://agenticmarket.dev/princegabriel73/server
+MCP endpoint: https://api.freshcontext.dev/mcp  
+MCP demo: https://api.freshcontext.dev/demo
 
 ```json
 {
